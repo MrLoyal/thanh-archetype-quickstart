@@ -2,7 +2,7 @@
 ### A custom Maven archetype
 
 
-I used to use maven-archetype-quickstart to scaffold my simple projects. But it generates code with out dated dependencies.
+I used to use ```maven-archetype-quickstart``` to scaffold my simple projects. But it generates code with out dated dependencies.
 
 
 So this is the alternative with more recent version of libraries.
