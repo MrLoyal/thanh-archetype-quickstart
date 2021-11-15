@@ -12,6 +12,8 @@ So this is the alternative with more recent version of libraries.
 
 Clone this repository and then install it
 ```
+git clone https://github.com/MrLoyal/thanh-archetype-quickstart.git
+cd thanh-archetype-quickstart
 mvn clean install
 ```
 
