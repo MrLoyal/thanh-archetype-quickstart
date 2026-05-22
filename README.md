@@ -24,7 +24,8 @@ mvn archetype:generate \
   -DartifactId=your-project-name \
   -Dversion=1.0 \
   -DarchetypeGroupId=com.thanh \
-  -DarchetypeArtifactId=thanh-archetype-quickstart
+  -DarchetypeArtifactId=thanh-archetype-quickstart \
+  -DarchetypeVersion=2.0
 ```
 
 Your project is ready!
